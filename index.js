@@ -17,4 +17,4 @@ password.oninput = function() {
     }
     power.style.width = widthpower[point];
     power.style.backgroundColor = color[point];
-}
+} 
